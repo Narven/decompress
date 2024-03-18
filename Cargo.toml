@@ -1,0 +1,8 @@
+[package]
+name = "decompress"
+version = "0.1.0"
+edition = "2021"
+authores = ["Pedro Luz <pedromsluz@gmail.com>"]
+
+[dependencies]
+zip = "0.6.6"
